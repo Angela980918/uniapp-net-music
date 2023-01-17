@@ -1,37 +1,16 @@
-# Uniapp-NetMusic
-
 #### 介绍
-这是一个用跨平台技术uniapp写的仿照网易云音乐小程序版的项目
+这是一个用跨平台技术uniapp写的仿照网易云音乐小程序版的项目(vue2),因为本地接口调式会经常出现身份认证，此处使用了gitee上码主--每天都要加油呀！接口进行调试。
 
-#### 软件架构
-软件架构说明
+传输门：https://gitee.com/fengxian_duck/netease-cloud-music
+其中包括了码主的资料、演示、详细解释、源码等以及千锋教育Ghost老师的视频中的源码
 
+视频教学：https://www.bilibili.com/video/BV1VM4y1g7eg?p=1
 
-#### 安装教程
+网易接口使用文档：https://binaryify.github.io/NeteaseCloudMusicApi/#/
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+因为部分接口网易已经关闭，所以部分功能选择了别的API进行了开发，同样对部分功能进行了优化，感谢❤
+
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  vue2
