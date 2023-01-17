@@ -2,6 +2,7 @@
 这是一个用跨平台技术uniapp写的仿照网易云音乐小程序版的项目(vue2),因为本地接口调式会经常出现身份认证，此处使用了gitee上码主--每天都要加油呀！接口进行调试。
 
 传输门：https://gitee.com/fengxian_duck/netease-cloud-music
+
 其中包括了码主的资料、演示、详细解释、源码等以及千锋教育Ghost老师的视频中的源码
 
 视频教学：https://www.bilibili.com/video/BV1VM4y1g7eg?p=1
